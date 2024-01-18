@@ -1,3 +1,3 @@
 # Updating-amxx
 
-Pequenas atualizações ou adições feitas no código do amxx 1.10, adicionando mais opções de customização aos clientes ou correção de bugs já conhecidos.
+Small updates or additions made to the amxx 1.10 code, adding more customization options to clients or fixing known bugs.
